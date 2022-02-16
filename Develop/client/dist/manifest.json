@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "/assets/icons/icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_386x386.png",
+      "sizes": "386x386",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_258x258.png",
+      "sizes": "258x258",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_185x185.png",
+      "sizes": "185x185",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_130x130.png",
+      "sizes": "130x130",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_98x98.png",
+      "sizes": "98x98",
+      "type": "image/png"
+    }
+  ],
+  "name": "JATE",
+  "short_name": "JATE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "This is a text-editor!",
+  "background_color": "#225ca3",
+  "theme_color": "#225ca3"
+}
